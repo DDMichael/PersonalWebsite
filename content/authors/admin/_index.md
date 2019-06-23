@@ -1,41 +1,41 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Daoming Dong (董道明) 
 
 # Username (this should match the folder name)
 authors:
-- admin
+- admin 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Cambridge
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include optics, holography and hetergenous computation via OpenCL and CUDA.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Generated Holography
+- Embedded Systems and Field Programmable Gate Array
+- Parallel Scientific Computation
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Electrical Engineering
+    institution: University of Cambridge
+    year: 2018
+  - course: MSc in Advanced Material Science and Engineering
+    institution: Imperial College London
+    year: 2016
+  - course: BSc in Electronics
+    institution: University of Liverpool
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

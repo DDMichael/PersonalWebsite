@@ -24,6 +24,7 @@ interests:
 - Computer Generated Holography
 - Embedded Systems and Field Programmable Gate Array
 - Parallel Scientific Computation
+- Optics
 
 education:
   courses:
